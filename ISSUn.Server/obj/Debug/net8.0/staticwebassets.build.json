@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "CkLz+rm1AuXdQ8KSkMuuzpKuirsnQY6cPaF/NXQQ/Q8=",
+  "Source": "ISSUn.Server",
+  "BasePath": "_content/ISSUn.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\КБиП\\asp_react\\ISSUn\\issun.client\\issun.client.esproj",
+      "Version": 2,
+      "Source": "issun.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

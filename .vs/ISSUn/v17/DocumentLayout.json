@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|solutionrelative:issun.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE336C2-16B3-41F3-A023-796D0778872B}|issun.client\\issun.client.esproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.client\\src\\mainpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DE336C2-16B3-41F3-A023-796D0778872B}|issun.client\\issun.client.esproj|solutionrelative:issun.client\\src\\mainpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.server\\controllers\\universitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|solutionrelative:issun.server\\controllers\\universitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.server\\models\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|solutionrelative:issun.server\\models\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.server\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|solutionrelative:issun.server\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.server\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|solutionrelative:issun.server\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|d:\\\u043A\u0431\u0438\u043F\\asp_react\\issun\\issun.server\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442240BC-979A-4C0C-8CAE-437DCF6D47F3}|ISSUn.Server\\ISSUn.Server.csproj|solutionrelative:issun.server\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.js",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\issun.client\\src\\MainPage.js",
+              "RelativeDocumentMoniker": "issun.client\\src\\MainPage.js",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\issun.client\\src\\MainPage.js",
+              "RelativeToolTip": "issun.client\\src\\MainPage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T18:23:13.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ISSUn.Server\\Program.cs",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Program.cs",
+              "RelativeToolTip": "ISSUn.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:18:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversitiesController.cs",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Controllers\\UniversitiesController.cs",
+              "RelativeDocumentMoniker": "ISSUn.Server\\Controllers\\UniversitiesController.cs",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Controllers\\UniversitiesController.cs",
+              "RelativeToolTip": "ISSUn.Server\\Controllers\\UniversitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:17:50.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\University.cs",
+              "RelativeDocumentMoniker": "ISSUn.Server\\Models\\University.cs",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\University.cs",
+              "RelativeToolTip": "ISSUn.Server\\Models\\University.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:15:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\Speciality.cs",
+              "RelativeDocumentMoniker": "ISSUn.Server\\Models\\Speciality.cs",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\Speciality.cs",
+              "RelativeToolTip": "ISSUn.Server\\Models\\Speciality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:15:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "ISSUn.Server\\Models\\Faculty.cs",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\Faculty.cs",
+              "RelativeToolTip": "ISSUn.Server\\Models\\Faculty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:15:23.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datab.cs",
+              "DocumentMoniker": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\Datab.cs",
+              "RelativeDocumentMoniker": "ISSUn.Server\\Models\\Datab.cs",
+              "ToolTip": "D:\\\u041A\u0411\u0438\u041F\\asp_react\\ISSUn\\ISSUn.Server\\Models\\Datab.cs",
+              "RelativeToolTip": "ISSUn.Server\\Models\\Datab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:13:16.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

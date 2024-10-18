@@ -1,0 +1,36 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="702" width="682" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m105.972495,168.166947l25.499999,-51.000004l67.999992,0l25.499991,51.000004l-25.499991,51.000004l-67.999992,0l-25.499999,-51.000004z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_2" d="m198.9725,219.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_3" d="m105.9725,270.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_4" d="m198.9725,15.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_5" d="m291.9725,66.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_6" d="m198.9725,117.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_7" d="m198.9725,321.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_8" d="m291.9725,372.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_9" d="m198.9725,423.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_10" d="m291.9725,168.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_11" d="m384.9725,219.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_12" d="m291.9725,270.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_13" d="m12.9725,219.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_15" d="m384.9725,219.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_17" d="m384.9725,15.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_18" d="m477.9725,66.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_19" d="m384.9725,117.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_20" d="m384.9725,321.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_21" d="m477.9725,372.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_22" d="m384.9725,423.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_23" d="m477.9725,168.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_24" d="m570.9725,219.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+  <path id="svg_25" d="m477.9725,270.16695l25.49999,-51.00001l68,0l25.49999,51.00001l-25.49999,51l-68,0l-25.49999,-51z" stroke-width="1.5" stroke="#1c1c1c" fill="none"/>
+ </g>
+</svg>
